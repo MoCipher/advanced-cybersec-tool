@@ -1,0 +1,6 @@
+Nmap
+scapy
+requests
+pyyaml
+pytest
+socketio
