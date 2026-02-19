@@ -10,7 +10,7 @@ A learning project exploring basic cybersecurity concepts such as port scanning 
 
 ## How to Use
 1. Clone the repo:
-   `git clone https://github.com/MoCipher/advanced-cybersec-tool`
+   `git clone https://github.com/username/repo`
 2. Install requirements:
    `pip install -r requirements.txt`
 3. Run the tool:
