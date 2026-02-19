@@ -4,3 +4,4 @@ requests
 pyyaml
 pytest
 socketio
+cryptography
