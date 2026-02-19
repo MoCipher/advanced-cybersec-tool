@@ -1,23 +1,26 @@
+
 # Advanced Cybersecurity Tool
 
-A learning project exploring basic cybersecurity concepts such as port scanning and simple encryption.
-
-**Note:** This project is for educational purposes and is not intended for real-world security use.
+A simple educational project demonstrating basic cybersecurity concepts such as port scanning and file encryption.
 
 ## Features
-- Simple port scanner
-- Basic file encryption/decryption
+- Port scanner for checking open ports on a host
+- File encryption and decryption using Fernet (symmetric encryption)
 
-## How to Use
-1. Clone the repo:
-   `git clone https://github.com/username/repo`
-2. Install requirements:
-   `pip install -r requirements.txt`
-3. Run the tool:
-   `python main.py`
+## Usage
+1. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+2. Run the tool:
+   ```
+   python main.py
+   ```
 
-## Credits
-Some code and ideas are inspired by Python cybersecurity tutorials.
+## Files
+- `main.py` — Command-line interface for the tool
+- `port_scanner.py` — Port scanning functionality
+- `file_encryptor.py` — File encryption/decryption functionality
 
 ## Disclaimer
 For educational use only.

@@ -1,5 +1,0 @@
-- [x] Scaffold the project with main.py, port_scanner.py, file_encryptor.py, requirements.txt, and README.md
-- [ ] Add detailed documentation and usage instructions
-- [ ] Ensure code quality and best practices
-- [ ] Add error handling and argparse usage
-- [ ] Final review and polish
